@@ -3,7 +3,6 @@ use std::process;
 use clplib::{Config,run};
 
 fn main() {
-    // --snip--
 
     let args: Vec<String> = env::args().collect();
 
